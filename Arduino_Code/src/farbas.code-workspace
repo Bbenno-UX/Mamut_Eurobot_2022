@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "i2tst",
+			"path": "../../i2tst"
+		}
+	],
+	"settings": {}
+}
