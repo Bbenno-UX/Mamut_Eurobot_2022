@@ -60,7 +60,7 @@ def abstand(lin,pt):
 
 def dercap(camera,rawCapture):
     """
-    Funktion für die Kamera, wird von einem Thread aufgerufen und immer weiter ausgeführt.
+    Funktion für die Kamera, wird von einem Thread ahttps://platformio.org/platformio-ideufgerufen und immer weiter ausgeführt.
     camera: Handler für den Kameraport
     rawCapture: Format für die PiCamera
     """
@@ -340,5 +340,7 @@ if __name__=="__main__":
         con.prozed_anf(con.getposs(pos))
     elif com[0]=="erkunden":
         con.finver()
+
+
 
 
