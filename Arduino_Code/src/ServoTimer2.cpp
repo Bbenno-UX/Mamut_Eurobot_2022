@@ -1,3 +1,6 @@
+
+//This file was not written by the owner of this Repository. Onöy a few lines were changed Credits go to nabontra:
+//https://github.com/nabontra/ServoTimer2
 extern "C" {
   // AVR LibC Includes
   #include <inttypes.h>
